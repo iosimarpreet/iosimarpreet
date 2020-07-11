@@ -4,7 +4,7 @@ I'm Simarpreet, pronounced *simmer•preet*. I wander between the worlds of Data
 
 Currently, I work at a healthcare-finance data analytics company building web-apps and machine learning systems.
 
-- 🔭 I’m currently working on [fyifyi.fyi](http://www.fyifyi.fyi/)
+- 🔨 Currently building [fyifyi.fyi](http://www.fyifyi.fyi/)
 - 🌱 I’m currently (re)-learning nodejs & really digging into vue (and front end in general)!
-- 📫 How to reach me: iosimarpreet@gmail.com / @iosimarpreet
+- 📫 Let's connect: iosimarpreet@gmail.com / @iosimarpreet
 - 😄 Pronouns: He/Him
